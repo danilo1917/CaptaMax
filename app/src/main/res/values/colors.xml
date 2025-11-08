@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- Cor principal para compatibilidade -->
+    <color name="colorPrimary">#14b8a6</color>
+    <!-- Cores Primárias -->
+    <color name="primary_green">#14b8a6</color>
+    <color name="secondary_green">#0d9488</color>
+    <color name="accent_green">#059669</color>
+    <color name="primary_green_dark">#388E3C</color>
+    <color name="primary_green_light">#C8E6C9</color>
+
+    <!-- Cores de Fundo -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="background_gray_light">#F5F5F5</color>
+    <color name="background_gray">#E0E0E0</color>
+    
+    <!-- Novas cores para o design moderno -->
+    <color name="surface_elevated">#FFFFFF</color>
+    <color name="background_gradient_start">#f0fdf4</color>
+    <color name="background_gradient_end">#ffffff</color>
+
+    <!-- Cores de Texto -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#000000</color>
+    <color name="text_hint">#BDBDBD</color>
+
+    <!-- Cores de Ícones -->
+    <color name="icon_gray">#757575</color>
+    <color name="icon_green">#14b8a6</color>
+
+    <!-- Cores de Estado -->
+    <color name="success_green">#14b8a6</color>
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    <color name="info_blue">#2196F3</color>
+
+    <!-- Cores Específicas -->
+    <color name="logout_red">#F44336</color>
+    <color name="divider_color">#E0E0E0</color>
+    
+    <!-- Cores para notificações -->
+    <color name="notification_unread_bg">#E3F2FD</color>
+    
+    <!-- Cores de urgência para notificações -->
+    <color name="notification_high_priority">#ef4444</color>     <!-- Vermelho para alta prioridade -->
+    <color name="notification_high_priority_bg">#fef2f2</color> <!-- Fundo vermelho claro -->
+    <color name="notification_medium_priority">#f59e0b</color>   <!-- Amarelo/laranja para média prioridade -->
+    <color name="notification_medium_priority_bg">#fffbeb</color> <!-- Fundo amarelo claro -->
+    <color name="notification_low_priority">#14b8a6</color>      <!-- Verde para baixa prioridade -->
+    <color name="notification_low_priority_bg">#f0fdf4</color>   <!-- Fundo verde claro -->
+    <color name="notification_info_priority">#3b82f6</color>     <!-- Azul para informações -->
+    <color name="notification_info_priority_bg">#f0f9ff</color>  <!-- Fundo azul claro -->
+
+    <!-- Cores de Transparência -->
+    <color name="transparent">#00000000</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="white_overlay">#66FFFFFF</color>
+
+    <!-- Paleta moderna para gráficos - tons harmônicos com o design do app -->
+    <color name="chart_primary">#14b8a6</color>         <!-- Verde principal - leads -->
+    <color name="chart_secondary">#0d9488</color>       <!-- Verde escuro - conversões -->
+    <color name="chart_accent1">#06b6d4</color>         <!-- Ciano moderno -->
+    <color name="chart_accent2">#3b82f6</color>         <!-- Azul vibrante -->
+    <color name="chart_accent3">#6366f1</color>         <!-- Índigo -->
+    <color name="chart_accent4">#8b5cf6</color>         <!-- Violeta -->
+    <color name="chart_accent5">#a855f7</color>         <!-- Roxo -->
+    <color name="chart_accent6">#ec4899</color>         <!-- Rosa -->
+    <color name="chart_accent7">#f59e0b</color>         <!-- Laranja -->
+    <color name="chart_accent8">#10b981</color>         <!-- Verde esmeralda -->
+    
+    <!-- Cores específicas para elementos dos gráficos -->
+    <color name="chart_background">#ffffff</color>      <!-- Fundo dos gráficos -->
+    <color name="chart_text_primary">#1f2937</color>    <!-- Texto principal -->
+    <color name="chart_text_secondary">#6b7280</color>  <!-- Texto secundário -->
+    <color name="chart_grid_lines">#e5e7eb</color>      <!-- Linhas de grade -->
+    <color name="chart_axis_lines">#9ca3af</color>      <!-- Linhas dos eixos -->
+
+    <!--    Cores Gabriel -->
+    <color name="verdeagua">#14b8a6</color>
+    <color name="verdeagua_dark">#0d9488</color>
+    <color name="azul_barra">#3b82f6</color>
+    <color name="roxo_barra">#6366f1</color>
+    <color name="lilas_barra">#a855f7</color>
+    <color name="magenta_barra">#ec4899</color>
+    <color name="vermelho_barra">#ef4444</color>
+
+    <!-- Cor de fundo do ícone do aplicativo -->
+    <color name="ic_launcher_background">#ffffff</color>
+
+    <!-- Cores adicionais para tela de recuperação de senha -->
+    <color name="background_primary">#f8fafc</color>
+    <color name="card_background">#ffffff</color>
+    <color name="button_disabled">#9CA3AF</color>
+    <color name="info_card_background">#f0f9ff</color>
+    <color name="info_card_border">#bae6fd</color>
+
+</resources>

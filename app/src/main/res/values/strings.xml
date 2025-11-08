@@ -1,0 +1,147 @@
+<resources>
+    <string name="hello">Hello World! AAAAAAAAA</string>
+    <string name="app_name">captaMax</string>
+    <string name="btn">Agendar atividade</string>
+    <string name="btn2">Listar eventos</string>
+    <string name="btn3">Listar oportunidades</string>
+    <string name="btn4">Listar etapas do processo</string>
+
+
+    <string name="cap_title">Captação comercial</string>
+    <string name="cap_subtitle">Métricas e desempenho em tempo real</string>
+    <string name="email">Email</string>
+    <string name="senha">Senha</string>
+    <string name="admin">Administrador</string>
+    <string name="user">Consultor</string>
+    <string name="do_login">Entrar</string>
+
+    <string name="aluno_name">Nome do Aluno</string>
+    <string name="escola_atual">Escola Atual</string>
+    <string name="serie">Série</string>
+    <string name="nome_responsável">Nome do Responsável</string>
+    <string name="tel">Telefone</string>
+    <string name="interesse">Interesse</string>
+    <string name="estagio_funil">Estágio no Funil</string>
+    <string name="obser">Observações</string>
+    <string name="salvar_lead">Salvar lead</string>
+
+
+    <string name="t1">1</string>
+    <string name="t2">2</string>
+    <string name="t3">+</string>
+    <string name="t4">3</string>
+    <string name="t5">4</string>
+
+    <string name="dashboard">Dashboard</string>
+    <string name="dashboard_title">Dashboard Gerencial</string>
+    <string name="dashboard_subtitle">Métricas e desempenho em tempo real</string>
+    <string name="dash_atencao">Leads que precisam de atenção</string>
+    <string name="dash_funil">Funil de Captação</string>
+    <string name="dash_acoes">Ações Rápidas</string>
+    <string name="dash_alertas">Alertas Recentes</string>
+    <string name="dash_adimistracao">Administração</string>
+    <string name="dash_buscar">Buscar leads</string>
+    <string name="dash_novo">Novo lead</string>
+    <string name="dash_metrica">Metricas da equipe</string>
+    <string name="dash_metrica_sub">Visualize o desempenho de toda a equipe</string>
+    <string name="dash_taxa_conversao">% de conversão</string>
+    <string name="dash_tempo_resposta">Tempo de Resposta</string>
+    <string name="dash_interacoes">Interações</string>
+    <string name="dash_meta_mensal">Meta Mensal</string>
+    <string name="dash_conver">Conversão total</string>
+    <string name="dash_leads_mes">Leads do Mês</string>
+    <string name="novos">Novos</string>
+    <string name="dash_matriculados">Matriculados</string>
+
+    <string name="dlead_title">Detalhes do Lead</string>
+    <string name="dlead_estagio">Estágio:</string>
+    <string name="dlead_nome">Nome do Lead</string>
+    <string name="dlead_escola">Escola do Lead • Serie do lead</string>
+    <string name="dlead_prioridade">Prioridade:</string>
+    <string name="dlead_informacoes_cont">Informações de Contato</string>
+    <string name="dlead_responsavel">Responsável:</string>
+    <string name="dlead_email">Email:</string>
+    <string name="dlead_tel">Telefone:</string>
+    <string name="dlead_interesse">Status:</string>
+    <string name="dlead_ult_cont">Último Contato:</string>
+    <string name="dlead_ult_observacoes">Observações</string>
+    <string name="dlead_hist">Histórico de Atividades</string>
+
+    <string name="dlead_regist_at">Registrar atividades</string>
+
+    <string name="lead_title">Leads</string>
+    <string name="lead_buscar">Buscar Leads…</string>
+    <string name="lead_filter_todos">Todos</string>
+    <string name="lead_filter_potenciais">Potenciais</string>
+    <string name="lead_filter_interessados">Interessados</string>
+    <string name="lead_filter_inscritos">Inscritos</string>
+    <string name="lead_filter_inscritos_parciais">Inscritos Parciais</string>
+    <string name="lead_filter_confirmados">Confirmados</string>
+    <string name="lead_filter_convocados">Convocados</string>
+    <string name="lead_filter_matriculados">Matriculados</string>
+    <string name="lead_btn"> Adicionar Novo Lead</string>
+
+    <string name="acompanhamento_title">Acompanhamento</string>
+    <string name="acompanhamento_lead_nome">Nome do Lead</string>
+    <string name="acompanhamento_escola">Escola do Lead • Serie do lead</string>
+    <string name="acompanhamento_lead_status">Status:</string>
+    <string name="acompanhamento_registrar_atividade">Registrar nova atividade:</string>
+    <string name="acompanhamento_ligacao_btn_text">Ligacao</string>
+    <string name="acompanhamento_email_btn_text">Email</string>
+    <string name="acompanhamento_tarefa_btn_text">Tarefa</string>
+    <string name="acompanhamento_mensagem_btn_text">Mensagem</string>
+    <string name="acompanhamento_visita_btn_text">Visita</string>
+    <string name="acompanhamento_text_caixa">Descreva a interacao...</string>
+    <string name="acompanhamento_data">Data</string>
+    <string name="acompanhamento_data_placeholder">06/20/2025</string>
+    <string name="acompanhamento_status">Status</string>
+    <string name="acompanhamento_add_atividade_btn">Adicionar atividade</string>
+    <string name="acompanhamento_historico_atividades">Historico de atividades:</string>
+    <string name="acompanhamento_historico_email">email • Concluido • 10:15:00 AM</string>
+    <string name="acompanhamento_historico_descricao">Enviado material informativo sobre a escola e valores.</string>
+    <string name="acompanhamento_proximos_passos">Proximos passos</string>
+    <string name="acompanhamento_proximos_passos_text1">Agendar visita a escola</string>
+    <string name="acompanhamento_proximos_passos_text2">enviar material informativo</string>
+    <string name="acompanhamento_nome_atividade">Nome da atividade:</string>
+    <string name="acompanhamento_nome_atividade_caixa">Digite o nome da atividade...</string>
+
+    <string-array name="spinner_options">
+        <item>Novo Lead</item>
+        <item>Contatado</item>
+        <item>Interessado</item>
+        <item>Visita agendada</item>
+        <item>Convertido</item>
+        <item>Perdido</item>
+    </string-array>
+
+    <!-- Strings para tela de recuperação de senha -->
+    <string name="recuperar_senha_title">Recuperar Senha</string>
+    <string name="esqueceu_senha_title">Esqueceu sua senha?</string>
+    <string name="esqueceu_senha_subtitle">Não se preocupe! Digite seu email abaixo e enviaremos um link para redefinir sua senha.</string>
+    <string name="email_recuperacao_hint">Email</string>
+    <string name="btn_enviar_email_recuperacao">Enviar Email de Recuperação</string>
+    <string name="btn_voltar_login">Voltar ao Login</string>
+    <string name="dicas_importantes">💡 Dicas importantes:</string>
+    <string name="dicas_recuperacao">• Verifique sua caixa de entrada e spam\n• O link expira em 24 horas\n• Se não receber, verifique se o email está correto</string>
+    <string name="email_enviado_sucesso">Email de recuperação enviado com sucesso!\n\nVerifique sua caixa de entrada e spam.</string>
+    <string name="enviando_email">Enviando email de recuperação...</string>
+    <string name="aguarde_envio">Aguarde o envio do email...</string>
+
+    <!-- Strings para tela de detalhes do lead modernizada -->
+    <string name="detalhes_lead_subtitle_moderna">Perfil completo e ações rápidas</string>
+    <string name="secao_informacoes_contato">📞 Informações de Contato</string>
+    <string name="secao_observacoes_moderna">📝 Observações e Notas</string>
+    <string name="secao_atividades_moderna">🎯 Histórico e Atividades</string>
+    <string name="status_chip_novo">🆕 Novo</string>
+    <string name="status_chip_potencial">🌱 Potencial</string>
+    <string name="status_chip_interessado">✨ Interessado</string>
+    <string name="status_chip_inscrito">📝 Inscrito</string>
+    <string name="status_chip_confirmado">✅ Confirmado</string>
+    <string name="status_chip_convocado">📢 Convocado</string>
+    <string name="status_chip_matriculado">🎯 Matriculado</string>
+    <string name="prioridade_urgente">🔴 Urgente</string>
+    <string name="prioridade_alta">🟠 Alta</string>
+    <string name="prioridade_media">🟡 Média</string>
+    <string name="prioridade_normal">⚪ Normal</string>
+
+</resources>

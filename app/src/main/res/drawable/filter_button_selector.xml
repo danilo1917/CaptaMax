@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- Estado selecionado/ativo - fundo verde -->
+    <item android:state_selected="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/primary_green" />
+            <corners android:radius="20dp" />
+            <stroke 
+                android:width="2dp"
+                android:color="@color/primary_green" />
+        </shape>
+    </item>
+    
+    <!-- Estado pressionado - fundo verde escuro -->
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="@color/verdeagua_dark" />
+            <corners android:radius="20dp" />
+            <stroke 
+                android:width="2dp"
+                android:color="@color/verdeagua_dark" />
+        </shape>
+    </item>
+    
+    <!-- Estado normal/não selecionado - fundo branco com outline verde -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+            <stroke 
+                android:width="2dp"
+                android:color="@color/primary_green" />
+            <corners android:radius="20dp" />
+        </shape>
+    </item>
+    
+</selector> 

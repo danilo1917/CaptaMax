@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    <!-- Texto quando selecionado/ativo - branco para contraste com fundo verde -->
+    <item android:state_selected="true" android:color="@color/white" />
+    
+    <!-- Texto quando pressionado - branco -->
+    <item android:state_pressed="true" android:color="@color/white" />
+    
+    <!-- Texto quando focado - branco -->
+    <item android:state_focused="true" android:color="@color/white" />
+    
+    <!-- Texto normal/não selecionado - verde para contraste com fundo branco -->
+    <item android:color="@color/white" />
+    
+</selector> 

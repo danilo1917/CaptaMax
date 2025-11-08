@@ -1,0 +1,36 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- Background circle -->
+    <path
+        android:fillColor="@color/primary_green"
+        android:pathData="M12,2C6.48,2 2,6.48 2,12s4.48,10 10,10s10,-4.48 10,-10S17.52,2 12,2z"
+        android:fillAlpha="0.1" />
+    
+    <!-- Bar chart bars -->
+    <path
+        android:fillColor="@color/primary_green"
+        android:pathData="M5,17h2V9H5V17z" />
+    
+    <path
+        android:fillColor="@color/accent_green"
+        android:pathData="M9,17h2V7H9V17z" />
+    
+    <path
+        android:fillColor="@color/success_green"
+        android:pathData="M13,17h2V11h-2V17z" />
+    
+    <path
+        android:fillColor="@color/primary_green"
+        android:pathData="M17,17h2V5h-2V17z" />
+    
+    <!-- Trend arrow -->
+    <path
+        android:fillColor="@color/success_green"
+        android:pathData="M16,6l2.29,2.29l-4.88,4.88l-4,-4L2,16.59L3.41,18l6,-6l4,4l6.3,-6.29L22,8V6H16z"
+        android:fillAlpha="0.7" />
+    
+</vector> 
