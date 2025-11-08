@@ -46,7 +46,11 @@ O principal objetivo deste projeto é aplicar os conceitos estudados na discipli
 
 \* A funcionalidade de cadastro de atividades está implementada no app, porém o envio da mensagem para cadastro não é permitido pela API da Rubeus.
 
-![tela1](./images/Screenshot_20250626_153715.png) ![tela2](./images/Screenshot_20250626_153829.png) ![tela3](./images/Screenshot_20250626_153854.png) ![tela4](./images/Screenshot_20250626_153915.png) ![tela5](./images/Screenshot_20250626_153933.png) !![tela6](./images/Screenshot_20250626_154015.png) !
+| | |
+|---|---|
+| <img src="./images/Screenshot_20250626_153715.png" width="250"/> | <img src="./images/Screenshot_20250626_153829.png" width="250"/> |
+| <img src="./images/Screenshot_20250626_153854.png" width="250"/> | <img src="./images/Screenshot_20250626_153915.png" width="250"/> |
+| <img src="./images/Screenshot_20250626_153933.png" width="250"/> | <img src="./images/Screenshot_20250626_154015.png" width="250"/> |
 
 ## Diagrama das telas
 
